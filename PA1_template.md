@@ -135,7 +135,7 @@ dev.off()
         + Mean: **10766.19**
         + Median: **10766.19**
 
-The median didn't change, but the mean became bigger after filling the NAs.
+The mean and the meadian became bigger after filling the NAs with the mean values of the corresponding 5-minute interval.
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
